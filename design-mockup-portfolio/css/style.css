@@ -1,0 +1,28 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+header{
+  font-family: 'Graduate', cursive;
+}
+h1,h2,h3,h4{
+  font-family: 'Graduate', cursive;
+}
+
+
+.logo{
+  padding: 10px;
+  height: 130px;
+}
+
+.video{
+  width: 100%;
+}
+
+footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flexItem{
+  width:50%
+}
